@@ -1,5 +1,24 @@
 # 💫 About Me:
-<br>👨‍💻 About Me :<br><br>📌 I’m currently working on<br>Full-stack web development projects, data-driven applications, and hands-on MCA coursework at Christ University, Bangalore. <br><br><br>🤝 I’m looking to collaborate on<br>Web development projects, Java-based applications, data analytics solutions, and innovative tech ideas involving IoT or automation. <br><br><br>🆘 I’m looking for help with<br>Advanced Java development, scalable backend architectures, and real-world AI/ML application integration. <br><br><br>🌱 I’m currently learning<br>Java, advanced web technologies, data warehousing & ETL processes, and exploring AI/ML concepts. <br><br><br>💬 Ask me about<br>Web development, PostgreSQL, data analytics, full-stack projects, IoT systems, and student tech projects. <br><br><br>⚡ Fun fact<br>I combine Mathematics + Computer Science + Electronics to build practical, real-world  IoT based tech solutions 🚀 <br>
+<br>
+👨‍💻 About Me :
+<br><br>
+📌 I’m currently working on<br>
+Full-stack web development projects, data-driven applications, and hands-on MCA coursework at Christ University, Bangalore.
+<br><br>
+🤝 I’m looking to collaborate on<br>
+Web development projects, Java-based applications, data analytics solutions, and innovative tech ideas involving IoT or automation.
+<br><br>
+🆘 I’m looking for help with<br>
+Advanced Java development, scalable backend architectures, and real-world AI/ML application integration.
+<br><br>
+🌱 I’m currently learning<br>
+Java, advanced web technologies, data warehousing & ETL processes, and exploring AI/ML concepts.
+<br><br>
+💬 Ask me about<br>
+Web development, PostgreSQL, data analytics, full-stack projects, IoT systems, and student tech projects.
+<br><br>
+⚡ Fun fact<br>
+I combine Mathematics + Computer Science + Electronics to build practical, real-world IoT-based tech solutions 🚀
 
 
 ## 🌐 Socials:
